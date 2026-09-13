@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+# fetch-more.sh downloads here
+original-languages/external/
