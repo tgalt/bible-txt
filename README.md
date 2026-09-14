@@ -21,3 +21,4 @@ Bible text and study notes.
 - [`jude-bible-study-outline.md`](jude-bible-study-outline.md) — study guide for the book of Jude
 - [`nicolaitans-explanation.md`](nicolaitans-explanation.md) — background on the Nicolaitans
 - [`faith-vs-works-living-christian-letter.txt`](faith-vs-works-living-christian-letter.txt) — notes on faith and works
+- [`fasting-in-the-bible.md`](fasting-in-the-bible.md) — what Scripture says about fasting, how it was practised, and where it fits in a Christian life
