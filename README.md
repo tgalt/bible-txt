@@ -39,3 +39,4 @@ Bible text and study notes.
 - [`nicolaitans-explanation.md`](nicolaitans-explanation.md) — background on the Nicolaitans
 - [`faith-vs-works-living-christian-letter.txt`](faith-vs-works-living-christian-letter.txt) — notes on faith and works
 - [`fasting-in-the-bible.md`](fasting-in-the-bible.md) — what Scripture says about fasting, how it was practised, and where it fits in a Christian life
+- [`jewish-holidays-2026-2027.md`](jewish-holidays-2026-2027.md) — every Jewish festival, fast, and observance in 2026 and 2027, with Hebrew dates and the evening each begins
