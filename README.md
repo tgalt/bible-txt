@@ -33,6 +33,20 @@ Bible text and study notes.
   See [`original-languages/README.md`](original-languages/README.md) for the
   sources, their licences, and what is deliberately left out.
 
+- **[`enoch/`](enoch)** — 1 Enoch, the Ethiopic Book of Enoch, in R. H.
+  Charles's 1917 translation, in the same line format: 108 chapters, 1,063
+  verses in [`enoch/1-enoch.txt`](enoch/1-enoch.txt). Not in the KJV or any
+  Western canon, but quoted in Jude 14–15:
+
+  ```sh
+  grep '^1 Enoch 1:9 ' enoch/1-enoch.txt
+  grep '^Jude 1:1[45] ' kjv/kjv.txt
+  ```
+
+  See [`enoch/README.md`](enoch/README.md) for the source, what was repaired
+  in it, and how the text was checked against a second transcription and the
+  Ethiopic.
+
 ### Study notes
 
 - [`jude-bible-study-outline.md`](jude-bible-study-outline.md) — study guide for the book of Jude
