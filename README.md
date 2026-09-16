@@ -55,3 +55,4 @@ Bible text and study notes.
 - [`fasting-in-the-bible.md`](fasting-in-the-bible.md) — what Scripture says about fasting, how it was practised, and where it fits in a Christian life
 - [`jewish-holidays-2026-2027.md`](jewish-holidays-2026-2027.md) — every Jewish festival, fast, and observance in 2026 and 2027, with Hebrew dates and the evening each begins
 - [`praying-for-the-dead.md`](praying-for-the-dead.md) — what Scripture says about praying for the dead, how the practice arose and why the churches divided over it, and what a grieving Christian can pray
+- [`once-saved-always-saved.md`](once-saved-always-saved.md) — whether a Christian can be finally lost: the security texts and the warning passages side by side, how the traditions from Augustine to Dort to Wesley have answered, and how the New Testament says you can know where you stand
