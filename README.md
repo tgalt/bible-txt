@@ -55,3 +55,4 @@ Bible text and study notes.
 - [`fasting-in-the-bible.md`](fasting-in-the-bible.md) — what Scripture says about fasting, how it was practised, and where it fits in a Christian life
 - [`jewish-holidays-2026-2027.md`](jewish-holidays-2026-2027.md) — every Jewish festival, fast, and observance in 2026 and 2027, with Hebrew dates and the evening each begins
 - [`praying-for-the-dead.md`](praying-for-the-dead.md) — what Scripture says about praying for the dead, how the practice arose and why the churches divided over it, and what a grieving Christian can pray
+- [`romans-7-study.md`](romans-7-study.md) — an in-depth study of Romans 7: the chapter verse by verse, the Greek behind it, the argument over who the "I" of verses 14–25 is, and what the chapter will and will not bear pastorally
