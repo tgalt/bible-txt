@@ -571,7 +571,7 @@ Also urged: 1 Kings 8:46 (*there is no man that sinneth not*), Ecclesiastes 7:20
 
 **On 1 John 3:6, 9.** The verbs are present tense, which in Greek characteristically describes ongoing or habitual action rather than a single act. The contrast in the context is between two settled ways of life — *he that doeth righteousness is righteous... he that committeth sin is of the devil* — not between a believer who never slips and one who does. This reading is also required by the letter's own internal consistency: the same author, two chapters earlier, says that claiming to have no sin is self-deception (1:8) and provides a standing remedy for a Christian's sin (1:9; 2:1 — *if any man sin, we have an advocate with the Father*). Any interpretation of 3:9 that contradicts 1:8 has made John contradict himself inside five pages.
 
-**On Romans 7.** Whether Paul in *the good that I would I do not* describes his present Christian experience, his pre-conversion life read with Christian hindsight, or a rhetorical figure for anyone under law, is a genuinely open question with serious defenders on all sides. What is not in dispute is that the passage ends in verse 25 with thanks and Romans 8:1 with *no condemnation*, and that the man in it *delights in the law of God after the inward man* — a thing the unregenerate are nowhere said to do (Romans 8:7).
+**On Romans 7.** Whether Paul in *the good that I would I do not* describes his present Christian experience, his pre-conversion life read with Christian hindsight, or a rhetorical figure for anyone under law, is a genuinely open question with serious defenders on all sides — set out at length in [`romans-7-study.md`](romans-7-study.md) in this repository. What is not in dispute is that the passage ends in verse 25 with thanks and Romans 8:1 with *no condemnation*, and that the man in it *delights in the law of God after the inward man* — a thing the unregenerate are nowhere said to do (Romans 8:7).
 
 **On Philippians 3:12.** Paul explicitly disclaims the thing at issue, in the past-tense verb, decades into his ministry — and then, four verses later, says *Let us therefore, as many as be perfect, be thus minded* (3:15), using the same word he has just denied. He can do that because *teleios* means mature, and being mature consists partly in knowing you have not arrived.
 
@@ -1428,6 +1428,7 @@ Each is argued in the text and the contrary evidence is quoted.
 
 - [`once-saved-always-saved.md`](once-saved-always-saved.md) — the closely related question of whether a Christian can be finally lost, and how assurance works
 - [`praying-for-the-dead.md`](praying-for-the-dead.md) — the argument over purification after death, the communion of saints, and the invocation of the departed, set out at length
+- [`romans-7-study.md`](romans-7-study.md) — the chapter that sits underneath the whole argument about indwelling sin in the believer, verse by verse, with the case for each reading of the "I"
 - [`fasting-in-the-bible.md`](fasting-in-the-bible.md) — one of the practices, examined on its own
 - [`if-any-would-not-work.md`](if-any-would-not-work.md) — a worked example of reading a single contested verse carefully
 - [`kjv/`](kjv) and [`original-languages/`](original-languages) — the texts every claim in this document was checked against
